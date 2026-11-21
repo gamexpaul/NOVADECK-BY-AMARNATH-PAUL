@@ -1,4 +1,4 @@
-# NovaDeck by Amarnath Paul
+# NOVADECK BY AMARNATH PAUL
 ### *The Ultimate All-in-One Desktop Command Center, Broadcast Audio Mixer & 4K Camera Suite for Windows*
 
 [![Release](https://img.shields.io/badge/Release-v1.0.19-cyan?style=for-the-badge&logo=windows)](https://github.com/gamexpaul/NOVADECK-BY-AMARNATH-PAUL/releases)
